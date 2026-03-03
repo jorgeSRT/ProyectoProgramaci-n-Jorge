@@ -1,1 +1,1 @@
-# ProyectoProgramaci-n-Jorge
+# ProyectoProgramacion-Jorge
